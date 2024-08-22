@@ -6,7 +6,7 @@
 
 ## ⚡Goals and Objectives
 ## I am looking to develop new skills that will help me achieve my goal of becoming a data scientist
-## I want to further strenghten my python knowledge, along with SQL and begin learning R. 
+## I want to further strengthen my python knowledge, along with SQL and begin learning R
 
 
 
