@@ -4,9 +4,12 @@
 ## 🌱 I’m currently learning about cloud computing for data analysis and how to execute and manage real-world projects
 ## 📫 How to reach me: sekidemirovic251@gmail.com
 
-## ⚡Goals and Objectives
+## ⚡ Goals and Objectives
 ## I am looking to develop new skills that will help me achieve my goal of becoming a data scientist
 ## I want to further strengthen my python knowledge, along with SQL and begin learning R
+
+## 🤔 Projects:
+
 
 
 
