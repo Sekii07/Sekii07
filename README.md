@@ -1,8 +1,13 @@
-## Hi there 👋
+## Hi there, about me 👋
 ## I am a student at the University of North Carolina at Charlotte
 ## 🔭 I’m currently working on my final software development project
 ## 🌱 I’m currently learning about cloud computing for data analysis and how to execute and manage real-world projects
 ## 📫 How to reach me: sekidemirovic251@gmail.com
+
+## ⚡Goals and Objectives
+## I am looking to develop new skills that will help me achieve my goal of becoming a data scientist
+## I want to further strenghten my python knowledge, along with SQL and begin learning R. 
+
 
 
 
