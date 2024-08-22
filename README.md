@@ -1,4 +1,11 @@
 ## Hi there 👋
+## I am a student at the University of North Carolina at Charlotte
+## 🔭 I’m currently working on my final software development project
+## 🌱 I’m currently learning about cloud computing for data analysis and how to execute and manage real-world projects
+## 📫 How to reach me: sekidemirovic251@gmail.com
+
+
+
 
 <!--
 **Sekii07/Sekii07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
